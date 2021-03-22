@@ -61,7 +61,7 @@ def Decimal():
             
 
 
-
+'''
 def Decimal1(number):
     ScreenContent = e.get()
     Entry_Len = len(ScreenContent)
@@ -83,7 +83,7 @@ def Decimal1(number):
                     break
                 i = i - 1
             e.insert(Entry_Len,".")
-
+'''
 def symbol(number):
     
     ScreenContent = e.get()
